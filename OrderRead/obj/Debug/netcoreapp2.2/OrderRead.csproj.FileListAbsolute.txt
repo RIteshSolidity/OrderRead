@@ -1,0 +1,16 @@
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.AssemblyInfoInputs.cache
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.AssemblyInfo.cs
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\OrderRead.deps.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\OrderRead.runtimeconfig.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\OrderRead.runtimeconfig.dev.json
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\OrderRead.dll
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.csprojAssemblyReference.cache
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.RazorAssemblyInfo.cache
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.RazorAssemblyInfo.cs
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.RazorTargetAssemblyInfo.cache
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\bin\Debug\netcoreapp2.2\OrderRead.pdb
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.dll
+C:\Users\citynextadmin\source\repos\OrderRead\OrderRead\obj\Debug\netcoreapp2.2\OrderRead.pdb
